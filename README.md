@@ -108,6 +108,14 @@ GraphQL Yoga is relying on `fetch()` WHATWG Fetch API, allowing you to [leverage
 For more advanced use-cases, please refer to the `useResponseCache()` Envelop plugins, with a Redis cache (memory cache is not supported on Serverless).
 
 
+<p>&nbsp;</p>
+
+### Bundle size
+
+**GraphQL Yoga bundle is 36% lighter than Apollo Cloudflare Server** (_Wrangler bundled script comparison_), leading is a faster startup and deployment time. ⚡️
+
+
+
 
 <p>&nbsp;</p>
 

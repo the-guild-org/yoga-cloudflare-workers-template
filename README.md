@@ -17,6 +17,9 @@ Fully-featured GraphQL Server with focus on easy setup, performance & great deve
 
 [Read the docs](https://www.graphql-yoga.com/docs/quick-start)
 
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/the-guild-org/yoga-cloudflare-workers-template)
+
 <p>&nbsp;</p>
 
 ----
@@ -60,3 +63,16 @@ wrangler publish
 
 - [GraphQL Yoga features documentation](https://www.graphql-yoga.com/docs/quick-start)
 - [GraphQL Yoga on Cloudflare Workers](https://www.graphql-yoga.com/docs/integrations/integration-with-cloudflare-workers)
+
+
+
+<p>&nbsp;</p>
+
+----
+
+<p>&nbsp;</p>
+
+
+## License
+
+This project is licensed with the [MIT License](./LICENSE).

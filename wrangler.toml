@@ -1,16 +1,6 @@
-name = "graphql-yoga-example"
-type = "javascript"
-
+compatibility_date = "2022-02-21"
+type = "webpack"
+name = "my-worker-dev"
 account_id = ""
 workers_dev = true
-
-compatibility_date = "2021-11-15"
-compatibility_flags = []
-
-[build]
-command = "npm run build"
-
-[build.upload]
-format = "modules"
-dir = "dist"
-main = "./index.mjs"
+webpack_config = "webpack.config.js"

@@ -1,5 +1,6 @@
 {
-  "name": "service-worker",
+  "name": "graphql-yoga-cloudflare-workers",
+  "description": "Fully-featured, simple to set up, performant and extendable GraphQL server",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,10 +13,10 @@
   },
   "devDependencies": {
     "@cloudflare/wrangler": "1.19.8",
-    "typescript": "4.5.5",
-    "ts-loader": "8.1.0",
-    "webpack": "4.46.0",
     "@types/service-worker-mock": "2.0.1",
-    "service-worker-mock": "2.0.5"
+    "service-worker-mock": "2.0.5",
+    "ts-loader": "8.1.0",
+    "typescript": "4.5.5",
+    "webpack": "4.46.0"
   }
 }

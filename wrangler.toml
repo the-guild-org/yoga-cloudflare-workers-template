@@ -4,3 +4,4 @@ name = "my-worker-dev"
 account_id = ""
 workers_dev = true
 webpack_config = "webpack.config.js"
+compatibility_flags = ["streams_enable_constructors"]
